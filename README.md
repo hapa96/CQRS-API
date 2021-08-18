@@ -1,2 +1,3 @@
 # CQRS-API
-Implementation of CQRS Pattern ASP.Net 5
+Simple Implementation of CQRS in C# ASP.NET 5 using [MediatR](https://github.com/jbogard/MediatR) 
+
